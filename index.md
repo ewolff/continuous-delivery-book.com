@@ -1,7 +1,10 @@
---
+---
 layout: default
 title: "Continuous Delivery - A Pragmatic Guide"
 description: Continuous Delivery - A Pragmatic Guide
+---
+
+Continuous Delivery - A Pragmatic Guide
 ---
 
 <img src="images/book.jpg" width="50%" /> 
