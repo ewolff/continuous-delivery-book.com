@@ -7,12 +7,14 @@ description: Content Continuous Delivery - A Pragmatic Guide
 Table of Content
 ---
 
+You can look at the [sample content](http://www.informit.com/articles/article.aspx?p=2765001).
+
 Throughout the book "Try and Experiment" sections provide exercises to
 apply the concepts and gain hands-on experience. The example project
 provide the foundation for these and show how the technologies can
 actually be used.
 
-###Part I: Foundations
+### Part I: Foundations
 
 In this part Chapter 1 provides the basics to understand Continuous
 Delivery. Chapter 2 explains the technical foundations of Continuous Delivery: It
