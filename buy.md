@@ -9,4 +9,4 @@ Buy
 
 Currently you can buy the book
 [at the publisher](http://www.informit.com/store/practical-guide-to-continuous-delivery-9780134691473). You
-can also read it at Safari Online.
+can also read it at [Safari Online](https://www.safaribooksonline.com/library/view/a-practical-guide/9780134691626/).
