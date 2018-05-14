@@ -10,6 +10,7 @@
 <script>
    if (document.cookie.indexOf('disable-google-analytics=true') > -1) {
      window['ga-disable-91025740-1'] = true;
+     console.log('GA disabled');
    }
    function gaOptout() {
      document.cookie = 'disable-google-analytics=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
