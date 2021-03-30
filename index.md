@@ -4,7 +4,7 @@ title: "Continuous Delivery - A Pragmatic Guide"
 description: Continuous Delivery - A Pragmatic Guide
 ---
 
-A Practical Guide to Continuous Delivery - 
+A Practical Guide to Continuous Delivery
 ---
 
 <img src="images/book.jpg" width="50%" /> 
